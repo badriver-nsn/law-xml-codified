@@ -78,10 +78,11 @@
     <section>
       <num>3.02.010</num>
       <heading>Findings</heading>
-      <text>The Tribal Council finds that the lands now comprising the Bad River Reservation were traditional hunting grounds for the ancestors of the Tribe; that these lands were selected as a Reservation because of their wealth of fish, game, and wild rice; that deer have been a nutritional staple for members of the Tribe for generations beyond memory; that deer continue to provide a substantial portion of the protein and other nutritional needs of the Tribe's members; that high unemployment and cash-poor local economy indicate that deer will remain critical as a food source for the Tribe's members; that pressure on the deer population by non-member sport hunting reduces the availability of deer as a food source for members; that non-members flaunting of tribal conservation laws has contributed to a decline in the reservation deer population; and that effective regulation of both member and non-member hunting of deer is essential for the preservation of the species in numbers sufficient to supply the economic and nutritional needs of the Tribe's members.</text>
+      <text>The Tribal Council finds that the lands now comprising the Bad River Reservation were traditional hunting grounds for the ancestors of the Tribe; that these lands were selected as a Reservation because of their wealth of fish, game, and wild rice; that deer and bear have been a nutritional staple for members of the Tribe for generations beyond memory; that deer continue to provide a substantial portion of the protein and other nutritional needs of the Tribe's members; that high unemployment and cash-poor local economy indicate that deer will remain critical as a food source for the Tribe's members; that pressure on the deer population by non-member sport hunting reduces the availability of deer as a food source for members; that non-members flaunting of tribal conservation laws has contributed to a decline in the reservation deer population; and that effective regulation of both member and non-member hunting of big game is essential for the preservation of the species in numbers sufficient to supply the economic and nutritional needs of the Tribe's members.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.02.010 was formerly codified as 301.1</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-2-81-12"/>
+        <annotation app="2026-09-02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" eff="2026-09-02" path="" target-path="3.02.010" type="History"/>
       </annotations>
     </section>
     <section>
@@ -111,9 +112,14 @@
         <num>(f)</num>
         <text>"Tribe" means the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation.</text>
       </para>
+      <para>
+        <num>(g)</num>
+        <text>Big Game: deer, bear</text>
+      </para>
       <annotations>
         <annotation type="Prior Codifications">§3.02.020 was formerly codified as 301.2</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-2-81-12"/>
+        <annotation app="2026-09-02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" eff="2026-09-02" path="" target-path="3.02.020" type="History"/>
       </annotations>
     </section>
     <section>
@@ -121,15 +127,16 @@
       <heading>Hunting Prescribed</heading>
       <para>
         <num>(a)</num>
-        <text>No person shall hunt or take any deer within the reservation except during the open season.</text>
+        <text>No person shall hunt or take any big game within the reservation except during the open season.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>No person shall hunt or take any deer within the reservation in excess of the limit allowed.</text>
+        <text>No person shall hunt or take any big game within the reservation in excess of the limit allowed.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§3.02.030 was formerly codified as 301.3</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-2-81-12"/>
+        <annotation app="2026-09-02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" eff="2026-09-02" path="" target-path="3.02.030" type="History"/>
       </annotations>
     </section>
     <section>
@@ -168,15 +175,16 @@
       <heading>Reporting a Kill</heading>
       <para>
         <num>(a)</num>
-        <text>No member who takes a deer shall fail to comply with reporting of kill regulations as established by the Conservation Department.</text>
+        <text>No member who takes a big game shall fail to comply with reporting of kill regulations as established by the Conservation Department.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>No non-member who takes a deer shall fail to report the kill to the Conservation Department within 72 hours of the kill.</text>
+        <text>No non-member who takes a big game shall fail to report the kill to the Conservation Department within 72 hours of the kill.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§3.02.050 was formerly codified as 301.5</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-2-81-12"/>
+        <annotation app="2026-09-02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" eff="2026-09-02" path="" target-path="3.02.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -184,7 +192,7 @@
       <heading>Equipment and Methods</heading>
       <para>
         <num>(a)</num>
-        <text>No person shall, while hunting deer:</text>
+        <text>No person shall, while hunting big game:</text>
         <para>
           <num>(1)</num>
           <text>Hunt with any means other than the use of a gun discharged from the shoulder or a bow and arrow.</text>
@@ -212,18 +220,18 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>No person shall, while hunting deer:</text>
+        <text>No person shall, while hunting big game:</text>
         <para>
           <num>(1)</num>
           <text>Discharge a firearm on lands of another within 500 yards of a building devoted to human occupancy without permission of the owner or occupant.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Appropriate, molest, or disturb any deer or the carcass or part thereof which has been lawfully reduced to possession by another without having that person's consent.</text>
+          <text>Appropriate, molest, or disturb any big game or the carcass or part thereof which has been lawfully reduced to possession by another without having that person's consent.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Hunt with the use of an airplane, including the use of an airplane to spot, rally or drive deer for hunters on the ground.</text>
+          <text>Hunt with the use of an airplane, including the use of an airplane to spot, rally or drive big game for hunters on the ground.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -231,34 +239,36 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Place, operate, or attend, spread, or set any net, pitfall, spring gun, pivot gun, or any other contrivance for the purpose of catching or which catch or take deer.</text>
+          <text>Place, operate, or attend, spread, or set any net, pitfall, spring gun, pivot gun, or any other contrivance for the purpose of catching or which catch or take big game.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Take or attempt to take any deer with the aid of any explosives.</text>
+          <text>Take or attempt to take any big game with the aid of any explosives.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>Train dogs by pursuing deer.</text>
+          <text>Train dogs by pursuing big game.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Fail to make every reasonable effort to retrieve all deer crippled or killed.</text>
+          <text>Fail to make every reasonable effort to retrieve all big game crippled or killed.</text>
         </para>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§3.02.060 was formerly codified as 301.6</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-2-81-12"/>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 11-19-95-107B"/>
+        <annotation app="2026-09-02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" eff="2026-09-02" path="" target-path="3.02.060" type="History"/>
       </annotations>
     </section>
     <section>
       <num>3.02.070</num>
       <heading>Licensing</heading>
-      <text>No person shall hunt or take deer who does not have in his or her possession a valid license issued to him or her by the Conservation Department, or who does not have or is not eligible to receive a membership or enrollment card of the Tribe.</text>
+      <text>No person shall hunt or take big game who does not have in his or her possession a valid license issued to him or her by the Conservation Department, or who does not have or is not eligible to receive a membership or enrollment card of the Tribe.</text>
       <annotations>
         <annotation type="Prior Codifications">§3.02.070 was formerly codified as 301.7</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-2-81-12"/>
+        <annotation app="2026-09-02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" eff="2026-09-02" path="" target-path="3.02.070" type="History"/>
       </annotations>
     </section>
     <section>
@@ -314,15 +324,16 @@
       <heading>Seizure and Forfeiture</heading>
       <para>
         <num>(a)</num>
-        <text>Any deer taken in violation of <cite path="3|3.02">this chapter</cite> may be seized by the Conservation Department and may be ordered forfeited.</text>
+        <text>Any big game taken in violation of <cite path="3|3.02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09">this chapter</cite> may be seized by the Conservation Department and may be ordered forfeited.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Any equipment used in the violation of <cite path="3|3.02">this chapter</cite> maybe seized by the Conservation Department and ordered forfeited.</text>
+        <text>Any equipment used in the violation of <cite path="3|3.02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09">this chapter</cite> maybe seized by the Conservation Department and ordered forfeited.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">§3.02.090 was formerly codified as 301.9</annotation>
         <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 9-2-81-12"/>
+        <annotation app="2026-09-02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" eff="2026-09-02" path="" target-path="3.02.090" type="History"/>
       </annotations>
     </section>
     <section>
