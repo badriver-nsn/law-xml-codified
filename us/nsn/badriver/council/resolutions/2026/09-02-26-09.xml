@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09" codify:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <num>09-02-26-09</num>
+  <heading>Changes to Chapter 3.02 - Hunting of Deer</heading>
+  <meta>
+    <effective>2026-09-02</effective>
+    <history>
+      <adopted>2026-09-02</adopted>
+    </history>
+    <citations>
+      <citation type="res" url="./adopted/09-02-26-09.pdf">Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Bad River Band of Lake Superior Tribe of Chippewa Indians is a federally recognized Indian Tribe with a Constitution enacted pursuant to the Indian Reorganization Act of 1934, 25 U.S.C. Section 476; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1">Article VI</cite> Section <cite doc="Constitution of the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the State of Wisconsin" path="VI|1|(n)">1(n)</cite> of the Constitution directs the Tribal Council to encourage and foster the arts, crafts, traditions, culture, wildlife, and natural resources of the Band; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
+      <text>that the Tribal Council hereby approves the following changes to Chapter 3.02 - Hunting of Deer:</text>
+      <para>
+        <num>1.</num>
+        <text>In <cite doc="" path="3.02">Chapter 3.02</cite> change the word deer to the words big game; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In <cite doc="" path="3.02.020">Section 3.02.020</cite> add the definition:</text>
+        <para>
+          <num>(g)</num>
+          <text>Big Game: deer, bear, and elk</text>
+        </para>
+      </para>
+    </recital>
+  </recitals>
+  <procedural-data>
+    <text class="center">
+      <u>CERTIFICATION</u>
+    </text>
+    <text>I, the undersigned, as Secretary of the Bad River Band of Lake Superior Chippewa Indians of Wisconsin, hereby certify that the Tribal Council is composed of <strong><u>7</u></strong> members, of whom <strong><u>7</u></strong>, constituting a quorum, were present at a meeting duly called, noticed, and held on the <strong><u>2</u></strong> day of <strong><u>September</u></strong>, 2026, that the foregoing resolution was duly adopted at such meeting by a vote of <strong><u>6</u></strong> for, <strong><u>0</u></strong> against, and <strong><u>0</u></strong> abstaining.</text>
+    <text>_________________________</text>
+    <text>Laura Miranda, Tribal Secretary</text>
+  </procedural-data>
+  <codify:replace path="3.02.010" codified:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" codified:path="|3.02.010">
+    <section>
+      <num>3.02.010</num>
+      <heading>Findings</heading>
+      <text>The Tribal Council finds that the lands now comprising the Bad River Reservation were traditional hunting grounds for the ancestors of the Tribe; that these lands were selected as a Reservation because of their wealth of fish, game, and wild rice; that deer and bear have been a nutritional staple for members of the Tribe for generations beyond memory; that deer continue to provide a substantial portion of the protein and other nutritional needs of the Tribe's members; that high unemployment and cash-poor local economy indicate that deer will remain critical as a food source for the Tribe's members; that pressure on the deer population by non-member sport hunting reduces the availability of deer as a food source for members; that non-members flaunting of tribal conservation laws has contributed to a decline in the reservation deer population; and that effective regulation of both member and non-member hunting of big game is essential for the preservation of the species in numbers sufficient to supply the economic and nutritional needs of the Tribe's members.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="3.02.020" codified:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" codified:path="|3.02.020">
+    <section>
+      <num>3.02.020</num>
+      <heading>Definitions</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Conservation Department" means the Conservation Department of the Tribe.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Member" means any person who is enrolled or is eligible for enrollment in the Tribe, or who is recognized as a member of the Tribe by the Tribal Council.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Non-members" means any person who does not come within the definition of member.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Reservation" means the Bad River Reservation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Tribal Council" means the Tribal Council of the Tribe.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Tribe" means the Bad River Band of the Lake Superior Tribe of Chippewa Indians of the Bad River Reservation.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Big Game: deer, bear</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="3.02.030" codified:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" codified:path="|3.02.030">
+    <section>
+      <num>3.02.030</num>
+      <heading>Hunting Prescribed</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall hunt or take any big game within the reservation except during the open season.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall hunt or take any big game within the reservation in excess of the limit allowed.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="3.02.050" codified:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" codified:path="|3.02.050">
+    <section>
+      <num>3.02.050</num>
+      <heading>Reporting a Kill</heading>
+      <para>
+        <num>(a)</num>
+        <text>No member who takes a big game shall fail to comply with reporting of kill regulations as established by the Conservation Department.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No non-member who takes a big game shall fail to report the kill to the Conservation Department within 72 hours of the kill.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="3.02.060" codified:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" codified:path="|3.02.060">
+    <section>
+      <num>3.02.060</num>
+      <heading>Equipment and Methods</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall, while hunting big game:</text>
+        <para>
+          <num>(1)</num>
+          <text>Hunt with any means other than the use of a gun discharged from the shoulder or a bow and arrow.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Have in possession while hunting any poisoned, drugged, or explosive tipped arrow.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Have in possession while hunting any incendiary type ammunition, except hunter distress flares.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Be in possession of handguns (any gun having a barrel less than 12 inches in length) if under the age of 18 years unless supervised by an adult 18 years of age or older.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Hunt with the aid of a dog.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Use arrows that are not well sharpened broad head blades. Broad head blades may not be less than seven-eights of an inch or more than one-half inches in width.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall, while hunting big game:</text>
+        <para>
+          <num>(1)</num>
+          <text>Discharge a firearm on lands of another within 500 yards of a building devoted to human occupancy without permission of the owner or occupant.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Appropriate, molest, or disturb any big game or the carcass or part thereof which has been lawfully reduced to possession by another without having that person's consent.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Hunt with the use of an airplane, including the use of an airplane to spot, rally or drive big game for hunters on the ground.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Put out bait containing poison where it might cause the destruction of wild animals or birds or possess poison while hunting or trapping.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Place, operate, or attend, spread, or set any net, pitfall, spring gun, pivot gun, or any other contrivance for the purpose of catching or which catch or take big game.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Take or attempt to take any big game with the aid of any explosives.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Train dogs by pursuing big game.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Fail to make every reasonable effort to retrieve all big game crippled or killed.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace path="3.02.070" codified:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" codified:path="|3.02.070">
+    <section>
+      <num>3.02.070</num>
+      <heading>Licensing</heading>
+      <text>No person shall hunt or take big game who does not have in his or her possession a valid license issued to him or her by the Conservation Department, or who does not have or is not eligible to receive a membership or enrollment card of the Tribe.</text>
+    </section>
+  </codify:replace>
+  <codify:replace path="3.02.090" codified:doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code" codified:path="|3.02.090">
+    <section>
+      <num>3.02.090</num>
+      <heading>Seizure and Forfeiture</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any big game taken in violation of <cite path="3|3.02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09">this chapter</cite> may be seized by the Conservation Department and may be ordered forfeited.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any equipment used in the violation of <cite path="3|3.02" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 09-02-26-09">this chapter</cite> maybe seized by the Conservation Department and ordered forfeited.</text>
+      </para>
+    </section>
+  </codify:replace>
+</document>
